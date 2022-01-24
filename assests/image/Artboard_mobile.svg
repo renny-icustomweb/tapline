@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="375px" height="75px" viewBox="0 0 375 75" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L375 0L375 1631L0 1631L0 0Z" id="path_1" />
+    <rect width="375" height="75" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Artboard-3" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <g id="Vector-22" transform="translate(0 -0.00048828125)">
+      <path d="M0 0L375 0L375 1631L0 1631L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M0 0L0 73.5L0 1630.5L375 1630.5L375 73.5L319 0L0 0L0 0Z" id="Shape" fill="#170953" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

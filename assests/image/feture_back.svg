@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1600px" height="107px" viewBox="0 0 1600 107" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5007803" y1="0" x2="0.5007803" y2="0.7940577" id="gradient_1">
+      <stop offset="0%" stop-color="#F8F8F8" />
+      <stop offset="100%" stop-color="#F7F5FF" />
+    </linearGradient>
+    <path d="M0 0L1600 0L1600 3213L0 3213L0 0Z" id="path_1" />
+    <rect width="1599.9998" height="107" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <g id="feature_back" transform="translate(-0.0036621094 -1730.7344)">
+      <path d="M0 0L1600 0L1600 3213L0 3213L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M0 1720L1600 1720L1600 3213L0 3213L0 1720L0 1720Z" id="Shape" fill="#170953" stroke="none" />
+        <path d="M803.5 0L-1 0L-1 1835.52L801 1731.15L1601 1836L1599 0L803.5 0L803.5 0Z" id="Shape" fill="url(#gradient_1)" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

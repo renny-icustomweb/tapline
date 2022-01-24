@@ -1,0 +1,465 @@
+
+@media (min-width: 1500px){
+.container {
+    max-width: 1465px;
+}
+
+}
+
+
+
+
+
+@media only screen and (min-width:1200px) and (max-width: 1499px){
+
+.container
+{
+        max-width: 100%;
+}
+.col-xl-6
+{
+        flex: 0 0 70%;
+    max-width: 70%;
+}
+.middle_text
+{
+            margin-top: 30px;
+}
+
+}
+
+
+/*      Tablet Layout: 1024px.
+
+        Gutters: 24px.
+
+        Outer margins: 28px.
+
+        Inherits styles from: Desktop Layout.
+
+-----------------------------------------------------------------
+
+cols    1     2      3      4      5      6      7      8
+
+px      68    160    252    344    436    528    620    712    */
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+
+.container
+{
+        max-width: 100%;
+}
+.main_menu .list-inline-item:not(:last-child) {
+    margin-right: 30px;
+}
+
+.banner_artwork
+{
+        display: none;
+}
+.top_banner {
+    background: rgb(68,53,146);
+    background: linear-gradient(
+0deg
+, rgba(68,53,146,1) 0%, rgba(22,13,87,1) 16%, rgba(28,52,132,1) 33%, rgba(7,73,101,1) 48%, rgba(23,55,119,1) 60%, rgba(39,58,120,1) 77%, rgba(52,36,122,1) 94%);
+    padding-bottom: 50px;
+}
+.tablet_main_banner_img
+{
+        position: relative;
+
+    width: 100%;
+}
+.social_icon .list-inline-item:not(:last-child) {
+    margin-right: 5px;
+}
+
+
+}
+
+
+
+
+/*      Tablet Layout: 768px.
+
+        Gutters: 24px.
+
+        Outer margins: 28px.
+
+        Inherits styles from: Default Layout.
+
+-----------------------------------------------------------------
+
+cols    1     2      3      4      5      6      7      8
+
+px      68    160    252    344    436    528    620    712    */
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+:root
+{
+--fnt16:16px;
+--fnt18:18px;
+--fnt20:20px;
+--fnt22:22px;
+--fnt30:30px;
+--fnt40:40px;
+--fnt50:40px;
+--fnt70:70px;
+--fnt80:80px;
+--fnt100:100px;
+
+
+}
+
+.container
+{
+        max-width: 100%;
+}
+
+.logo
+{
+        width: 140px;
+}
+.main_menu .list-inline-item:not(:last-child) {
+    margin-right: 30px;
+}
+
+.banner_artwork
+{
+        display: none;
+}
+.top_banner {
+    background: rgb(68,53,146);
+    background: linear-gradient(
+0deg
+, rgba(68,53,146,1) 0%, rgba(22,13,87,1) 16%, rgba(28,52,132,1) 33%, rgba(7,73,101,1) 48%, rgba(23,55,119,1) 60%, rgba(39,58,120,1) 77%, rgba(52,36,122,1) 94%);
+    padding-bottom: 50px;
+}
+.tablet_main_banner_img
+{
+        position: relative;
+
+    width: 100%;
+}
+.marquee_text_main
+{
+            margin-top: 100px;
+}
+.feature_box
+{
+            padding-right: 0px;
+}
+.tool_sec {
+    margin: 100px 0px;
+}
+.subcription_sec
+{
+            padding-bottom: 250px;
+}
+.subscription_member {
+    margin-top: 140px;
+}
+.dollar_box
+{
+        top: -100px;
+            width: 300px;
+}
+.dollar_box span
+{
+        top: 95px;
+        font-size: 100px;
+    line-height: 100px;
+}
+.image_main
+{
+            padding: 0;
+    padding-left: 75px;
+    z-index: 1;
+    position: relative;
+    padding-bottom: 30px;
+}
+.social_icon .list-inline-item:not(:last-child) {
+    margin-right: 10px;
+}
+
+
+}
+
+
+
+
+
+
+
+/*      Mobile Layout: 320px.
+
+        Gutters: 24px.
+
+        Outer margins: 34px.
+
+        Inherits styles from: Default Layout.
+
+---------------------------------------------
+
+cols    1     2      3
+
+px      68    160    252    */
+
+
+
+@media only screen and (max-width: 767px) {
+
+:root
+{
+--fnt16:16px;
+--fnt18:18px;
+--fnt20:20px;
+--fnt22:22px;
+--fnt30:22px;
+--fnt40:40px;
+--fnt50:40px;
+--fnt70:70px;
+--fnt80:80px;
+--fnt100:100px;
+
+
+}
+
+
+.banner_artwork
+{
+        display: none;
+}
+.top_banner
+{background: rgb(68,53,146);
+      
+background: linear-gradient(0deg, rgba(68,53,146,1) 0%, rgba(22,13,87,1) 16%, rgba(28,52,132,1) 33%, rgba(7,73,101,1) 48%, rgba(23,55,119,1) 60%, rgba(39,58,120,1) 77%, rgba(52,36,122,1) 94%);
+}
+.logo
+{
+        width: 120px;
+}
+.mobile_open_data
+{
+        padding: 30px 0px;
+}
+.middle_text
+{
+            margin-top: 50px;
+}
+.mobile_main_banner_img
+{
+          position: relative;
+    bottom: -60px;
+    width: 100%;
+}
+.detail_text
+{
+            margin-top: 80px;
+}
+.instant_funding_main {
+    margin-top: 80px;
+}
+.instant_funding
+{
+            position: relative;
+   
+    padding-top: 10px;
+}
+.mt-70-mobile
+
+{
+        margin-top: 70px!important;
+}
+.marquee_text_main {
+    overflow: hidden;
+    margin-top: 80px;
+    padding-bottom: 30px;
+}
+
+.mobile_border_fix
+{
+        position: relative;
+       
+}
+.capital_sec {
+    margin: 120px 0px;
+}
+.capi_img
+{
+        top: 0px;
+            margin-bottom: 40px;
+}
+.services_detail
+{
+            padding: 100px 0px;
+            background: #F8F8FA;
+}
+.services_list li
+{
+            padding: 19px 20px;
+            padding-left: 70px;
+}
+.service_box
+{
+        margin-bottom: 50px;
+}
+.step_fund {
+    margin-top: 50px;
+}
+.step_fund .number
+{
+        margin: 0px auto;
+}
+.step_box
+{
+        text-align: center;
+}
+.step_fund .step_box {
+ margin-bottom: 50px;
+    padding: 0px 0px;
+}
+.feature_inner
+{
+        text-align: center;
+}
+.feature_box .icon
+{
+        margin: 0px auto;
+}
+.feature_box
+{
+        padding-right: 0px;
+        margin-bottom: 50px;
+}
+.tool_sec {
+    margin: 100px 0px;
+}
+.tool_sec h2
+{
+        margin-bottom: 50px;
+}
+.subcription_sec
+{
+     
+        padding: 100px 0px;
+        padding-bottom: 200px;
+}
+.subscription_member {
+      margin-top: 140px;
+}
+.dollar_box
+{
+        top: -90px;
+        width: 250px;
+}
+.dollar_box span
+{
+            top: 76px;
+font-size: 90px;
+    line-height: 90px;
+}
+.memberdata img {
+    width: 55px;
+}
+.memberdata:after
+{
+            top: 28px;
+}
+.invester_box
+{
+        padding: 20px;
+        margin-bottom: 35px;
+}
+.image_main
+{
+        padding: 0px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.card-header .btn-link:after
+{
+            top: 50px;
+}
+.card-header .btn-link:not(.collapsed):after
+{
+     top: 50px;     
+}
+.report_sec
+{
+        background: rgb(68,53,146);
+    background: linear-gradient(
+0deg
+, rgba(68,53,146,1) 0%, rgba(22,13,87,1) 16%, rgba(28,52,132,1) 33%, rgba(7,73,101,1) 48%, rgba(23,55,119,1) 60%, rgba(39,58,120,1) 77%, rgba(52,36,122,1) 94%);
+}
+
+footer {
+    padding: 80px 0px;
+}
+
+.border_inner
+{
+        width: 100%;
+        height: 70%;
+        top: 0%;
+}
+
+
+.mobile_main_banner_img {
+        /*CSS transitions*/
+        -o-transition-property: none !important;
+        -moz-transition-property: none !important;
+        -ms-transition-property: none !important;
+        -webkit-transition-property: none !important;
+        transition-property: none !important;
+        /*CSS transforms*/
+        -o-transform: none !important;
+        -moz-transform: none !important;
+        -ms-transform: none !important;
+        -webkit-transform: none !important;
+        transform: none !important;
+        /*CSS animations*/
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+        opacity: 1!important;
+    }
+
+}
+
+
+
+
+
+
+
+
+/*      Wide Mobile Layout: 480px.
+
+        Gutters: 24px.
+
+        Outer margins: 22px.
+
+        Inherits styles from: Default Layout, Mobile Layout.
+
+------------------------------------------------------------
+
+cols    1     2      3      4      5
+
+px      68    160    252    344    436    */
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+.mobile_main_banner_img
+{
+            bottom: -102px;
+}
+
+}

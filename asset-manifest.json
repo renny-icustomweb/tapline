@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tapline/static/css/main.9b0b6b2c.css",
+    "main.js": "/tapline/static/js/main.79bbdd19.js",
+    "index.html": "/tapline/index.html",
+    "main.9b0b6b2c.css.map": "/tapline/static/css/main.9b0b6b2c.css.map",
+    "main.79bbdd19.js.map": "/tapline/static/js/main.79bbdd19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b0b6b2c.css",
+    "static/js/main.79bbdd19.js"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="-0.0234375" x2="0.5" y2="1.0234375" id="gradient_1">
+      <stop offset="0%" stop-color="#6B48FF" stop-opacity="0" />
+      <stop offset="97.0971%" stop-color="#6B48FF" />
+    </linearGradient>
+  </defs>
+  <g id="number_back" transform="translate(1.5 1.5)">
+    <g id="Group">
+      <path d="M0 33.5C0 14.9985 14.9985 0 33.5 0C52.0015 0 67 14.9985 67 33.5C67 52.0015 52.0015 67 33.5 67C14.9985 67 0 52.0015 0 33.5Z" id="Circle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M1.5 33.5C1.5 15.8269 15.8269 1.5 33.5 1.5C51.1731 1.5 65.5 15.8269 65.5 33.5C65.5 51.1731 51.1731 65.5 33.5 65.5C15.8269 65.5 1.5 51.1731 1.5 33.5Z" id="Circle" fill="none" fill-rule="evenodd" stroke="url(#gradient_1)" stroke-width="3" />
+    </g>
+  </g>
+</svg>

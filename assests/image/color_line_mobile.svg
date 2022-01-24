@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="80px" viewBox="0 0 375 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color_line_mobile</title>
+    <defs>
+        <linearGradient x1="51.3253333%" y1="48.9586489%" x2="48.6373333%" y2="51.0712178%" id="linearGradient-1">
+            <stop stop-color="#6B48FF" offset="0%"></stop>
+            <stop stop-color="#392B83" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.9450549%" y1="46.8542447%" x2="48%" y2="53.2375317%" id="linearGradient-2">
+            <stop stop-color="#6B48FF" offset="0%"></stop>
+            <stop stop-color="#392B83" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.8756477%" y1="47.1371044%" x2="48.0725389%" y2="52.9445086%" id="linearGradient-3">
+            <stop stop-color="#6B48FF" offset="0%"></stop>
+            <stop stop-color="#392B83" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="color_line_mobile" fill-rule="nonzero">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="375" height="40"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="193" y="40" width="182" height="40"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="40" width="193" height="40"></rect>
+        </g>
+    </g>
+</svg>
