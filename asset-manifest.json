@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tapline/static/js/main.79bbdd19.js",
+    "main.js": "/tapline/static/js/main.a2ad0043.js",
     "index.html": "/tapline/index.html",
-    "main.79bbdd19.js.map": "/tapline/static/js/main.79bbdd19.js.map"
+    "main.a2ad0043.js.map": "/tapline/static/js/main.a2ad0043.js.map"
   },
   "entrypoints": [
-    "static/js/main.79bbdd19.js"
+    "static/js/main.a2ad0043.js"
   ]
 }
